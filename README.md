@@ -1,26 +1,28 @@
-# Title
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# 
+  ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
   ## Description
-  asdflaskdjfoi
+  
 
   ## Table of Contents
 
   ## Installation
-  asdfaweg
+  
 
   ## Usage
-  laso
+  
 
   ## License
-  Licensed under the Apache 2.0 license.
+  Licensed under the GNU GPLv3 license.
 
   ## Contributing
-  egerg
+  
 
   ## Tests
-  weg
+  
 
   ## Questions
-  rg
+  Feel free to reach out to me in the following ways:
+  Github: [grimmgr](http://github.com/grimmgr)
+  Email: [ggrimm33@gmail.com](mailto:ggrimm33@gmail.com)
   
