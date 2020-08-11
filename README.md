@@ -2,7 +2,7 @@
   # 
   ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  [About](#description) :cd: [Installation](#installation) :cd: [Usage](#usage) :cd: [License](#license) :cd: [Contributing](#contributing) :cd: [Tests](#tests) :cd: [Contact](#contact)
+  * [About](#description) * [Installation](#installation) * [Usage](#usage) * [License](#license) * [Contributing](#contributing) * [Tests](#tests) * [Contact](#contact)
 
   ## About
   
