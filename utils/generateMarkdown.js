@@ -17,11 +17,13 @@ function generateMarkdown(data) {
   Licensed under the ${data.license} license.
 
   ## Contributing
+  ${data.contributing}
 
   ## Tests
+  ${data.tests}
 
   ## Questions
-
+  ${data.questions}
   `;
 }
 
