@@ -15,7 +15,8 @@ function generateMarkdown(data) {
     badgeInfo = 'MIT-yellow';
   } 
 
-  return `# ${data.title}
+  return `
+  # ${data.title}
   ![License](https://img.shields.io/badge/License-${ badgeInfo }.svg)
 
   ## Description
@@ -39,10 +40,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  Feel free to reach out to me in the following ways:
-
-  Github: [${ data.github}](http://github.com/${ data.github })
-  
+  Feel free to reach out to me in the following ways: \n
+  Github: [${ data.github}](http://github.com/${ data.github }) \n
   Email: [${ data.email }](mailto:${ data.email })
   `;
 }

@@ -10,7 +10,7 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'Title'
+        message: 'Title:'
     }, 
     {
         type: 'input',
