@@ -19,10 +19,10 @@ function generateMarkdown(data) {
   # ${data.title}
   ![License](https://img.shields.io/badge/License-${ badgeInfo }.svg)
 
-  ## Description
-  ${data.description}
+  [About](#description) :cd: [Installation](#installation) :cd: [Usage](#usage) :cd: [License](#license) :cd: [Contributing](#contributing) :cd: [Tests](#tests) :cd: [Contact](#contact)
 
-  ## Table of Contents
+  ## About
+  ${data.description}
 
   ## Installation
   ${data.installation}
@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
 
-  ## Questions
+  ## Contact
   Feel free to reach out to me in the following ways:
   * Github: [${ data.github}](http://github.com/${ data.github })
   * Email: [${ data.email }](mailto:${ data.email })
