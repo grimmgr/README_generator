@@ -40,9 +40,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  Feel free to reach out to me in the following ways: \n
-  Github: [${ data.github}](http://github.com/${ data.github }) \n
-  Email: [${ data.email }](mailto:${ data.email })
+  Feel free to reach out to me in the following ways:
+  * Github: [${ data.github}](http://github.com/${ data.github })
+  * Email: [${ data.email }](mailto:${ data.email })
   `;
 }
 
