@@ -11,7 +11,7 @@
   You will also have to run `npm install inquirer` to install inquirer.
 
   ## Usage
-  ![](assets/README_generator.mp4)
+  ![](assets/screencast.gif)
 
   ## Contributing
   To contribute: 
