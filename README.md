@@ -1,26 +1,24 @@
 
-  # My Project
-  ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  # README Generator
 
-  [About](#description) - [Installation](#installation) - [Usage](#usage) - [License](#license) - [Contributing](#contributing) - [Tests](#tests) - [Contact](#contact)
+  [Installation](#installation) - [Usage](#usage) - [Contributing](#contributing) - [Contact](#contact)
 
-  ## About
-  Blsdfoi lakjfgoiwjrg; ajkog
+  A command line application to quickly create a detailed and well-organized README.
 
   ## Installation
-  download
+  Clone the repo to your desktop and run `npm install` to install dependencies.
+
+  You will also have to run `npm install inquirer` to install inquirer.
 
   ## Usage
-  none
-
-  ## License
-  Licensed under the GNU GPLv3 license.
+  ![](assets/README_generator.mp4)
 
   ## Contributing
-  Mr. Bedero
-
-  ## Tests
-  1, 2, ...
+  To contribute: 
+  1. Fork the repo
+  2. Create a new branch
+  3. Make and test changes
+  4. Submit a Pull Request describing your changes
 
   ## Contact
   Feel free to reach out to me in the following ways:
