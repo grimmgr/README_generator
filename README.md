@@ -7,9 +7,7 @@
 
   ## Installation
   Clone the repo to your desktop and run `npm install` to install dependencies.
-
-  You will also have to run `npm install inquirer` to install inquirer.
-
+  
   ## Usage
   ![](assets/screencast.gif)
 
